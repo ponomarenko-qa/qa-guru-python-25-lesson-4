@@ -36,6 +36,7 @@ personal_domains = {
     "bk.ru",
     "inbox.ru",
 }
+
 corporate_domains = {
     "company.ru",
     "corporation.com",
